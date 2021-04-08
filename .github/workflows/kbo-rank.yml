@@ -5,7 +5,7 @@ name: spot-rank-scrap
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 15 * * *'
   push:
     branches: [ master ]
   pull_request:
