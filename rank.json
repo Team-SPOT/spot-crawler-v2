@@ -1,14 +1,6 @@
 [
 	{
 		"ranking": "1",
-		"team": "LG",
-		"win": "22",
-		"lose": "16",
-		"tie": "0",
-		"odds": "0.579"
-	},
-	{
-		"ranking": "2",
 		"team": "KT",
 		"win": "21",
 		"lose": "16",
@@ -16,7 +8,15 @@
 		"odds": "0.568"
 	},
 	{
-		"ranking": "3",
+		"ranking": "2",
+		"team": "LG",
+		"win": "22",
+		"lose": "17",
+		"tie": "0",
+		"odds": "0.564"
+	},
+	{
+		"ranking": "2",
 		"team": "삼성",
 		"win": "22",
 		"lose": "17",
@@ -26,13 +26,13 @@
 	{
 		"ranking": "4",
 		"team": "NC",
-		"win": "20",
+		"win": "21",
 		"lose": "17",
 		"tie": "0",
-		"odds": "0.541"
+		"odds": "0.553"
 	},
 	{
-		"ranking": "4",
+		"ranking": "5",
 		"team": "SSG",
 		"win": "20",
 		"lose": "17",
