@@ -27,33 +27,33 @@
 		"ranking": "4",
 		"team": "SSG",
 		"win": "40",
-		"lose": "32",
+		"lose": "33",
 		"tie": "2",
-		"odds": "0.556"
+		"odds": "0.548"
 	},
 	{
 		"ranking": "5",
 		"team": "NC",
-		"win": "36",
+		"win": "37",
 		"lose": "34",
 		"tie": "2",
-		"odds": "0.514"
+		"odds": "0.521"
 	},
 	{
 		"ranking": "6",
 		"team": "키움",
-		"win": "39",
+		"win": "40",
 		"lose": "38",
 		"tie": "0",
-		"odds": "0.506"
+		"odds": "0.513"
 	},
 	{
 		"ranking": "7",
 		"team": "두산",
 		"win": "35",
-		"lose": "37",
+		"lose": "38",
 		"tie": "0",
-		"odds": "0.486"
+		"odds": "0.479"
 	},
 	{
 		"ranking": "8",
