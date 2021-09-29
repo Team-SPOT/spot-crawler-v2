@@ -3,9 +3,9 @@
 		"ranking": "1",
 		"team": "KT",
 		"win": "68",
-		"lose": "44",
+		"lose": "45",
 		"tie": "5",
-		"odds": "0.607"
+		"odds": "0.602"
 	},
 	{
 		"ranking": "2",
@@ -26,10 +26,10 @@
 	{
 		"ranking": "4",
 		"team": "두산",
-		"win": "57",
+		"win": "58",
 		"lose": "53",
 		"tie": "5",
-		"odds": "0.518"
+		"odds": "0.523"
 	},
 	{
 		"ranking": "5",
@@ -50,10 +50,10 @@
 	{
 		"ranking": "7",
 		"team": "NC",
-		"win": "54",
+		"win": "55",
 		"lose": "57",
 		"tie": "4",
-		"odds": "0.486"
+		"odds": "0.491"
 	},
 	{
 		"ranking": "8",
@@ -67,9 +67,9 @@
 		"ranking": "9",
 		"team": "KIA",
 		"win": "44",
-		"lose": "64",
+		"lose": "65",
 		"tie": "6",
-		"odds": "0.407"
+		"odds": "0.404"
 	},
 	{
 		"ranking": "10",
