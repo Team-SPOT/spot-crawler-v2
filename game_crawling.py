@@ -24,7 +24,7 @@ driver.get("https://www.koreabaseball.com/Schedule/Schedule.aspx?seriesId=0,9")
 
 # 일정 검색 버튼 누르기
 schedule = []
-for input_year in range(2021,2022,1):
+for input_year in range(2022,2023,1):
     ##년도 선택
     year_select = driver.find_element_by_css_selector("select#ddlYear")
     for option in year_select.find_elements_by_tag_name('option'):
