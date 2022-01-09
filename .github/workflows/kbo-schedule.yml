@@ -46,7 +46,7 @@ jobs:
         git config --local user.email "20152917@sungshin.ac.kr"
         git config --local user.name "2yeseul"
         git add .
-        git commit -m "2021 baseball schedules"
+        git commit -m "2022 baseball schedules"
         git pull origin master
     - name: push
       uses: ad-m/github-push-action@master
