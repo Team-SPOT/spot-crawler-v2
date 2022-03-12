@@ -1,82 +1,82 @@
 [
 	{
 		"ranking": "1",
-		"team": "KT",
-		"win": "76",
-		"lose": "59",
-		"tie": "9",
-		"odds": "0.563"
-	},
-	{
-		"ranking": "2",
-		"team": "두산",
-		"win": "71",
-		"lose": "65",
-		"tie": "8",
-		"odds": "0.522"
-	},
-	{
-		"ranking": "3",
-		"team": "삼성",
-		"win": "76",
-		"lose": "59",
-		"tie": "9",
-		"odds": "0.563"
-	},
-	{
-		"ranking": "4",
 		"team": "LG",
-		"win": "72",
-		"lose": "58",
-		"tie": "14",
-		"odds": "0.554"
+		"win": "1",
+		"lose": "0",
+		"tie": "0",
+		"odds": "1.000"
 	},
 	{
-		"ranking": "5",
+		"ranking": "1",
 		"team": "키움",
-		"win": "70",
-		"lose": "67",
-		"tie": "7",
-		"odds": "0.511"
+		"win": "1",
+		"lose": "0",
+		"tie": "0",
+		"odds": "1.000"
+	},
+	{
+		"ranking": "1",
+		"team": "SSG",
+		"win": "1",
+		"lose": "0",
+		"tie": "0",
+		"odds": "1.000"
+	},
+	{
+		"ranking": "1",
+		"team": "KIA",
+		"win": "1",
+		"lose": "0",
+		"tie": "0",
+		"odds": "1.000"
+	},
+	{
+		"ranking": "1",
+		"team": "한화",
+		"win": "1",
+		"lose": "0",
+		"tie": "0",
+		"odds": "1.000"
 	},
 	{
 		"ranking": "6",
-		"team": "SSG",
-		"win": "66",
-		"lose": "64",
-		"tie": "14",
-		"odds": "0.508"
+		"team": "KT",
+		"win": "0",
+		"lose": "1",
+		"tie": "0",
+		"odds": "0.000"
 	},
 	{
-		"ranking": "7",
+		"ranking": "6",
+		"team": "두산",
+		"win": "0",
+		"lose": "1",
+		"tie": "0",
+		"odds": "0.000"
+	},
+	{
+		"ranking": "6",
+		"team": "삼성",
+		"win": "0",
+		"lose": "1",
+		"tie": "0",
+		"odds": "0.000"
+	},
+	{
+		"ranking": "6",
 		"team": "NC",
-		"win": "67",
-		"lose": "68",
-		"tie": "9",
-		"odds": "0.496"
+		"win": "0",
+		"lose": "1",
+		"tie": "0",
+		"odds": "0.000"
 	},
 	{
-		"ranking": "8",
+		"ranking": "6",
 		"team": "롯데",
-		"win": "65",
-		"lose": "71",
-		"tie": "8",
-		"odds": "0.478"
-	},
-	{
-		"ranking": "9",
-		"team": "KIA",
-		"win": "58",
-		"lose": "76",
-		"tie": "10",
-		"odds": "0.433"
-	},
-	{
-		"ranking": "10",
-		"team": "한화",
-		"win": "49",
-		"lose": "83",
-		"tie": "12",
-		"odds": "0.371"
+		"win": "0",
+		"lose": "1",
+		"tie": "0",
+		"odds": "0.000"
 	}
 ]
