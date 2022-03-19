@@ -25,14 +25,6 @@
 	},
 	{
 		"ranking": "4",
-		"team": "키움",
-		"win": "3",
-		"lose": "2",
-		"tie": "1",
-		"odds": "0.600"
-	},
-	{
-		"ranking": "4",
 		"team": "SSG",
 		"win": "3",
 		"lose": "2",
@@ -40,7 +32,7 @@
 		"odds": "0.600"
 	},
 	{
-		"ranking": "6",
+		"ranking": "5",
 		"team": "KT",
 		"win": "2",
 		"lose": "2",
@@ -48,16 +40,24 @@
 		"odds": "0.500"
 	},
 	{
-		"ranking": "7",
-		"team": "NC",
-		"win": "2",
+		"ranking": "5",
+		"team": "키움",
+		"win": "3",
 		"lose": "3",
-		"tie": "0",
-		"odds": "0.400"
+		"tie": "1",
+		"odds": "0.500"
 	},
 	{
-		"ranking": "7",
+		"ranking": "5",
 		"team": "한화",
+		"win": "3",
+		"lose": "3",
+		"tie": "0",
+		"odds": "0.500"
+	},
+	{
+		"ranking": "8",
+		"team": "NC",
 		"win": "2",
 		"lose": "3",
 		"tie": "0",
