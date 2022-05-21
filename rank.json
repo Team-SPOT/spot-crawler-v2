@@ -3,80 +3,80 @@
 		"ranking": "1",
 		"team": "SSG",
 		"win": "28",
-		"lose": "12",
+		"lose": "13",
 		"tie": "2",
-		"odds": "0.700"
+		"odds": "0.683"
 	},
 	{
 		"ranking": "2",
 		"team": "LG",
-		"win": "25",
+		"win": "26",
 		"lose": "17",
 		"tie": "0",
-		"odds": "0.595"
+		"odds": "0.605"
 	},
 	{
 		"ranking": "3",
 		"team": "키움",
-		"win": "23",
+		"win": "24",
 		"lose": "19",
 		"tie": "0",
-		"odds": "0.548"
+		"odds": "0.558"
 	},
 	{
 		"ranking": "4",
-		"team": "삼성",
-		"win": "22",
-		"lose": "19",
-		"tie": "0",
-		"odds": "0.537"
-	},
-	{
-		"ranking": "4",
-		"team": "KIA",
-		"win": "22",
-		"lose": "19",
-		"tie": "0",
-		"odds": "0.537"
-	},
-	{
-		"ranking": "6",
-		"team": "롯데",
+		"team": "두산",
 		"win": "21",
 		"lose": "19",
 		"tie": "1",
 		"odds": "0.525"
 	},
 	{
+		"ranking": "5",
+		"team": "삼성",
+		"win": "22",
+		"lose": "20",
+		"tie": "0",
+		"odds": "0.524"
+	},
+	{
+		"ranking": "5",
+		"team": "KIA",
+		"win": "22",
+		"lose": "20",
+		"tie": "0",
+		"odds": "0.524"
+	},
+	{
 		"ranking": "7",
-		"team": "두산",
-		"win": "20",
-		"lose": "19",
+		"team": "롯데",
+		"win": "21",
+		"lose": "20",
 		"tie": "1",
-		"odds": "0.513"
+		"odds": "0.512"
 	},
 	{
 		"ranking": "8",
 		"team": "KT",
-		"win": "18",
+		"win": "19",
 		"lose": "23",
 		"tie": "0",
-		"odds": "0.439"
+		"odds": "0.452"
 	},
 	{
 		"ranking": "9",
 		"team": "NC",
-		"win": "13",
+		"win": "14",
 		"lose": "29",
 		"tie": "0",
-		"odds": "0.310"
+		"odds": "0.326"
 	},
 	{
-		"ranking": "9",
+		"ranking": "10",
 		"team": "한화",
 		"win": "13",
-		"lose": "29",
+		"lose": "30",
 		"tie": "0",
-		"odds": "0.310"
+		"odds": "0.302"
 	}
 ]
