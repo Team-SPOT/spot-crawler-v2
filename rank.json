@@ -2,10 +2,10 @@
 	{
 		"ranking": "1",
 		"team": "SSG",
-		"win": "35",
+		"win": "36",
 		"lose": "18",
 		"tie": "2",
-		"odds": "0.660"
+		"odds": "0.667"
 	},
 	{
 		"ranking": "2",
@@ -19,16 +19,16 @@
 		"ranking": "3",
 		"team": "LG",
 		"win": "31",
-		"lose": "23",
+		"lose": "24",
 		"tie": "1",
-		"odds": "0.574"
+		"odds": "0.564"
 	},
 	{
 		"ranking": "4",
 		"team": "KIA",
 		"win": "30",
 		"lose": "24",
-		"tie": "0",
+		"tie": "1",
 		"odds": "0.556"
 	},
 	{
@@ -52,7 +52,7 @@
 		"team": "KT",
 		"win": "25",
 		"lose": "29",
-		"tie": "0",
+		"tie": "1",
 		"odds": "0.463"
 	},
 	{
