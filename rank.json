@@ -9,19 +9,19 @@
 	},
 	{
 		"ranking": "2",
-		"team": "LG",
-		"win": "87",
-		"lose": "55",
-		"tie": "2",
-		"odds": "0.613"
-	},
-	{
-		"ranking": "3",
 		"team": "키움",
 		"win": "80",
 		"lose": "62",
 		"tie": "2",
 		"odds": "0.563"
+	},
+	{
+		"ranking": "3",
+		"team": "LG",
+		"win": "87",
+		"lose": "55",
+		"tie": "2",
+		"odds": "0.613"
 	},
 	{
 		"ranking": "4",
